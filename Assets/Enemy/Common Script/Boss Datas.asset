@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df311e2ce7082bb4ea137ec237530a00, type: 3}
+  m_Name: Boss Datas
+  m_EditorClassIdentifier: 
+  bossDatasSet:
+  - enemyId: 0
+    bossType: 0
+    maxHp: 2200000
+    moveSpeed: 0.8
+    attackInterval: 1.5
+    clashDamageValue: 25
+  - enemyId: 1
+    bossType: 1
+    maxHp: 625000
+    moveSpeed: 1.2
+    attackInterval: 1.5
+    clashDamageValue: 15
+  - enemyId: 2
+    bossType: 2
+    maxHp: 1400000
+    moveSpeed: 0.8
+    attackInterval: 2
+    clashDamageValue: 15
+  bossBunnyAttackDamageDatasSet:
+    bigDustAttackDamageValue: 300
+    smallDustAttackDamageValue: 50
+    carrotDamageValue: 30
+  bossGhostAttackDamageDatasSet:
+    blueMinCrushDamage: 100
+    pinkMinCrushDamage: 100
+    blueBulletDamage: 100
+    pinkBulletDamage: 20
+  bossNinjaFrogAttackDamageDatasSet:
+    ScarecrowTargetCrushDamage: 100
+    ScarecrowTargetLandingDustDamage: 200
+    ScarecrowTargetFireDamage: 100
+    fireBulletAtScarecrowTargetDamage: 80
+    bigThrowingStarDamage: 200
+    bigThrowingStarChildDamage: 100
+    reflectiveThrowingStarDamage: 100

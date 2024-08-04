@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47da44880a9ec5841b1a99104a0a4c94, type: 3}
+  m_Name: Combat Assistance Item Datas
+  m_EditorClassIdentifier: 
+  combatAssistanceItemDatasSet:
+  - skillId: 0
+    skillIcon: {fileID: 21300000, guid: 714d078712e6737459e690181d754043, type: 3}
+    skillName: "\uBB3C\uB958 \uACF5\uAE09 \uACE8\uB4DC"
+    skillDescription: "1690\uACE8\uB4DC \uD68D\uB4DD"
+    itemValue: 1690
+  - skillId: 1
+    skillIcon: {fileID: 21300000, guid: 46f7267048d98914ead481c57c4f29ed, type: 3}
+    skillName: "\uBB3C\uB958 \uACF5\uAE09 \uACE8\uB4DC \uBCF4\uB530\uB9AC"
+    skillDescription: "3380\uACE8\uB4DC \uD68D\uB4DD"
+    itemValue: 3380
+  - skillId: 2
+    skillIcon: {fileID: 21300000, guid: 5b01869466841c24bba0ad60bb8fbae5, type: 3}
+    skillName: "\uBB3C\uB958 \uACF5\uAE09 \uACE8\uB4DC \uAE08\uACE0"
+    skillDescription: "5070\uACE8\uB4DC \uD68D\uB4DD"
+    itemValue: 5070

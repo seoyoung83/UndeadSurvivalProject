@@ -1,0 +1,252 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5cbf580cb406dc941a11c2ba8ce39403
+  m_SerializeEntries:
+  - m_GUID: fd03c457aa312284f967204c7287275e
+    m_Address: Assets/AddressablesScene/Image/Player Weapon/SpiritShuriken.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e5b7496042ffbe4d81cc15b52813056
+    m_Address: Assets/AddressablesScene/Image/Player Weapon/kunai.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 085ca6f867cd01749b8ff1072c6b7f8a
+    m_Address: Assets/AddressablesScene/Image/Player Weapon/Reaper.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4e385b2db0ca8144950f0524d2a3c04
+    m_Address: Assets/AddressablesScene/Image/Player Weapon/Revolver.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 491230018bb87634db5bb49423353a6a
+    m_Address: Assets/AddressablesScene/Image/Player Active Skill Image/else/Shield
+      Icon2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d48339440a96e440be50fcaafbe69e8
+    m_Address: Assets/AddressablesScene/Image/Player Active Skill Image/else/Shield
+      Icon1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce6fa6d7e2d50dd46965b15c32672fab
+    m_Address: Assets/AddressablesScene/Image/Player Active Skill Image/else/Rocket2FireUI.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 662a2ffac6902cb4ca56ae3ad116368d
+    m_Address: Assets/AddressablesScene/Image/Player Active Skill Image/else/ThunderboltPowerCell.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 227572c02e2b7f24880e14581411155f
+    m_Address: Assets/AddressablesScene/Image/Player Active Skill Image/else/LightningEmitter.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66b4886b642a3864c8b9aa44f5719a1d
+    m_Address: Assets/AddressablesScene/Image/Player Active Skill Image/else/TypeBdrone.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57342ecc063485a4f8e3607c570ca969
+    m_Address: Assets/AddressablesScene/Image/Player Active Skill Image/else/DroneAB.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e994dd7deed8334abd64cc91775da1d
+    m_Address: Assets/AddressablesScene/Image/Player Active Skill Image/else/TypeAdrone.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e526eaf7c037d843a60c04e8b78deb4
+    m_Address: Assets/AddressablesScene/Image/Player Active Skill Image/else/RocketFireUI.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3386cfec008f9a9409c6fff55b387783
+    m_Address: Assets/AddressablesScene/Image/Player Active Skill Image/else/Ironball.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d905163f7391d954f92966a86153944a
+    m_Address: Assets/AddressablesScene/Image/Player Active Skill Image/else/Soccerball.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38bca8603aad5584ab0d1e15b8604d8f
+    m_Address: Assets/AddressablesScene/Image/Player Active Skill Image/else/AttackShield2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac0c4480fc86c544da546279590c62de
+    m_Address: Assets/AddressablesScene/Image/Player Active Skill Image/else/FirebombUIIcon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b96254f73d795584ba9d70a4c35a6251
+    m_Address: Assets/AddressablesScene/Image/Player Active Skill Image/else/Caltrops.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c72f7bbaab2f2e40a5fb16c228afd1d
+    m_Address: Assets/AddressablesScene/Image/Player Active Skill Image/else/Durian.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2f3ecfbf1ea1654fa64c2c27435d6f0
+    m_Address: Assets/AddressablesScene/Image/Player Active Skill Image/else/WhistlingArrow.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 736069dd7c11a724293b5c6c0b0bdf6d
+    m_Address: Assets/AddressablesScene/Image/Player Active Skill Image/else/DrillShot1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69b622e04766e4e4aa14547e781b024a
+    m_Address: Assets/AddressablesScene/Image/Player Active Skill Image/else/Dumbbell.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24b608cd1884c46499949acc38a3797a
+    m_Address: Assets/AddressablesScene/Image/Player Active Skill Image/else/MagnetBoomerang.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d57fdd5988452f0409ff578488f58672
+    m_Address: Assets/AddressablesScene/Image/Player Active Skill Image/else/Boomerang.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c592331427ef6114daf8f3eb93dca989
+    m_Address: Assets/AddressablesScene/Image/Player Active Skill Image/else/OilcanUIIcon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dce22b6e6003c3e41acff6992e860808
+    m_Address: Assets/AddressablesScene/Image/Player Active Skill Image/else/AttackShield1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 803ba03c11800334cbc2dfb80ec76e2d
+    m_Address: Assets/AddressablesScene/Image/Player Active Skill Image/else/Brick.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 118847dcc74891e4696eebfdb7f36c18
+    m_Address: Assets/AddressablesScene/Image/Player Passive Skill Image/Armor.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5fca486ad93c00a4898c98b0f9d5004c
+    m_Address: Assets/AddressablesScene/Image/Player Passive Skill Image/NinjaScroll.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ecc7bcba8daa194e8c625251084b878
+    m_Address: Assets/AddressablesScene/Image/Player Passive Skill Image/Fuel.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be7dacc90480de040b113b6f551d1ba1
+    m_Address: Assets/AddressablesScene/Image/Player Passive Skill Image/FitnessGuide.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 171b14b3a77335446a7df0121c6f3cef
+    m_Address: Assets/AddressablesScene/Image/Player Passive Skill Image/PlusMinusMagnet.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 440b460e67b8e114999457540f7c4537
+    m_Address: Assets/AddressablesScene/Image/Player Passive Skill Image/Sneakers.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 000a53ee2998c074ca60866063962dd5
+    m_Address: Assets/AddressablesScene/Image/Player Passive Skill Image/AmmoThurster.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 832e30ae2b78e574d965981e4b1baa05
+    m_Address: Assets/AddressablesScene/Image/Player Passive Skill Image/OilTicket.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d1d72b68150a81c46982f8a5cf917bb6
+    m_Address: Assets/AddressablesScene/Image/Player Passive Skill Image/EnergyCube.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ce7b3e8e5b02394399ee2ded855d5b0
+    m_Address: Assets/AddressablesScene/Image/Player Passive Skill Image/EnergyDrink.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee4575afccc87ea428b66627f65854ae
+    m_Address: Assets/AddressablesScene/Image/Player Passive Skill Image/RoninOyoroi.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34fde3961b03877448607ca4ed424ffe
+    m_Address: Assets/AddressablesScene/Image/Player Passive Skill Image/HiPoweredBullet.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0fba45fbd6d58c644bd7e05dadd45494
+    m_Address: Assets/AddressablesScene/Image/Pickup Image/HpBuffPickup.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9807a237d302354da09c4af57145c36
+    m_Address: Assets/AddressablesScene/Image/Pickup Image/CoinsPocketPickup.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 737ddc664ad577d4ba04d4c2565b251a
+    m_Address: Assets/AddressablesScene/Image/Player Weapon/DeathSsGun.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50418a35a6976394b966a524a269ca28
+    m_Address: Assets/AddressablesScene/Image/Player Weapon/SsGun.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1fdc7a11805a02447a30717b0f2b0889
+    m_Address: Assets/AddressablesScene/Image/Player Weapon/DemonBlade.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c7ec95cb26c3ea4c99425a869b5f8b4
+    m_Address: Assets/AddressablesScene/Image/Player Weapon/Katana.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 62dbf382565c4bd48a9b558ed39e92e5, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 03bbb79ed311faa4c8ea478e2a39f64e, type: 2}
+    - {fileID: 11400000, guid: 12992d9afa6f83e4b9cd4d1939f141ca, type: 2}
