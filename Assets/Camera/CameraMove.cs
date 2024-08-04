@@ -29,7 +29,6 @@ public class CameraMove : MonoBehaviour
         m_camera = GetComponent<Camera>();
     }
 
-
     private void LateUpdate()
     {
         if (target == null)
